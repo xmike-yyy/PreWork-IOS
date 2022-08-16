@@ -68,7 +68,6 @@
                         <color key="backgroundColor" systemColor="systemGreenColor"/>
                     </view>
                     <connections>
-                        <outlet property="Overall" destination="8bC-Xf-vdC" id="r8v-QA-gc7"/>
                         <outlet property="TextLabel" destination="M7n-w8-szc" id="1Hb-Jg-vkr"/>
                     </connections>
                 </viewController>
